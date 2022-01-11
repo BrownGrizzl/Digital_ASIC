@@ -1,0 +1,35 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.500.4 07/10/17 21:23 (sjfnl321) $
+; sub-version 4.1_USR5_HF11
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; RSF include(/Cadence/Libs/X_FAB/XKIT/xt018/cadence/v7_0/assura/v7_0_2/Assura/XT018_1243/DRCinclude.rsf) Section
+; Specified in the Assura UI
+;----------------------------------------------------------------------------
+
+; DRCinclude.rsf
+
+
+avParameters(
+?textPriOnly t
+?keepOriginal t
+)
+
+
+;----------------------------------------------------------------------------
+; avParameter Section
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+avParameters(
+  ?inputLayout ( "df2" "test" )
+  ?cellName "Subsystem"
+  ?viewName "layout"
+  ?runName "Subsystem_DRC"
+  ?workingDirectory "./AssuraDRC"
+  ?technology "XT018_1243"
+  ?techLib "./assura_tech.lib"
+  ?avrpt t
+)

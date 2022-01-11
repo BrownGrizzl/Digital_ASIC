@@ -1,0 +1,56 @@
+# ------------------------------------------------------------------------------
+# X-FAB XT018 Cadence library manager combine  definitions
+# Please do not edit or modify this file!
+# xkit -m|--modules overwrites this file, any changes will be lost.
+# ------------------------------------------------------------------------------
+# License Specific Cadence libraries
+ASSIGN analogLib		 DISPLAY	Cadence_lib
+ASSIGN functional		 DISPLAY	Cadence_lib
+ASSIGN sbaLib		 DISPLAY	Cadence_lib
+ASSIGN ahdlLib		 DISPLAY	Cadence_lib
+ASSIGN basic		 DISPLAY	Cadence_lib
+ASSIGN sample		 DISPLAY	Cadence_lib
+ASSIGN US_8ths		 DISPLAY	Cadence_lib
+ASSIGN ieee		 DISPLAY	Cadence_lib
+ASSIGN ambit		 DISPLAY	Cadence_lib
+ASSIGN std		 DISPLAY	Cadence_lib
+ASSIGN synopsys		 DISPLAY	Cadence_lib
+ASSIGN connectLib		 DISPLAY	Cadence_lib
+DEFINE	CadenceLibs		./.xkit/setup/x_all/cadence/xenv/lib/libs/CadenceLibs
+ASSIGN	CadenceLibs		DISPLAY	Cadence_top
+ASSIGN	CadenceLibs		COMBINE	 analogLib functional sbaLib ahdlLib basic sample US_8ths ieee ambit std synopsys connectLib
+
+
+
+# X-FAB libraries
+ASSIGN	D_CELLS_5V		DISPLAY	diglibs_lib
+ASSIGN	GATES		DISPLAY	diglibs_lib
+ASSIGN	GATES_5V		DISPLAY	diglibs_lib
+ASSIGN	PRIMLIB		DISPLAY	XFAB_lib
+ASSIGN	TECH_XT018		DISPLAY	XFAB_lib
+ASSIGN	TECH_XT018_HD		DISPLAY	XFAB_lib
+ASSIGN	VLG_PRIMITIVES		DISPLAY	diglibs_lib
+ASSIGN	xfab_connectLib		DISPLAY	XFAB_lib
+ASSIGN	D_CELLS_HD		DISPLAY	diglibs_lib
+ASSIGN	D_CELLS_HDMV		DISPLAY	diglibs_lib
+ASSIGN	D_CELLS_M5V		DISPLAY	diglibs_lib
+ASSIGN	D_CELLS_MV		DISPLAY	diglibs_lib
+ASSIGN	GATES_HD		DISPLAY	diglibs_lib
+ASSIGN	GATES_HD5V		DISPLAY	diglibs_lib
+ASSIGN	HV_CELLS		DISPLAY	esdlibs_lib
+ASSIGN	IO_CELLS_5V		DISPLAY	diglibs_lib
+ASSIGN	IO_CELLS_C5V		DISPLAY	diglibs_lib
+ASSIGN	IO_CELLS_F5V		DISPLAY	diglibs_lib
+ASSIGN	IO_CELLS_FC5V		DISPLAY	diglibs_lib
+DEFINE	DigitalLibs		./.xkit/setup/x_all/cadence/xenv/lib/libs/DigitalLibs
+ASSIGN	DigitalLibs		DISPLAY	diglibs_top
+ASSIGN	DigitalLibs		COMBINE	 D_CELLS_5V GATES GATES_5V VLG_PRIMITIVES D_CELLS_HD D_CELLS_HDMV D_CELLS_M5V D_CELLS_MV GATES_HD GATES_HD5V IO_CELLS_5V IO_CELLS_C5V IO_CELLS_F5V IO_CELLS_FC5V
+DEFINE	EsdLibs		./.xkit/setup/x_all/cadence/xenv/lib/libs/EsdLibs
+ASSIGN	EsdLibs		DISPLAY	esdlibs_top
+ASSIGN	EsdLibs		COMBINE	 HV_CELLS
+DEFINE	XFABLibs	./.xkit/setup/x_all/cadence/xenv/lib/libs/XFABLibs
+ASSIGN	XFABLibs	DISPLAY	XFAB_top
+ASSIGN	XFABLibs	COMBINE	 PRIMLIB TECH_XT018 TECH_XT018_HD xfab_connectLib DigitalLibs EsdLibs
+# user specific Library Manager Combine/Display Definitions
+#DEFINE	UserLibs	./.xkit/setup/x_all/cadence/xenv/lib/libs/UserLibs
+#ASSIGN	UserLibs	DISPLAY	User_top

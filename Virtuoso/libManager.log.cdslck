@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      student7
+HostName                       Cadence_SERVER
+ProcessIdentifier              8459
+ProcessCreationTime_UTC        1639990170
+ProcessCreationTime_Readable   Mon Dec 20 11:49:30 2021 MSK
+AppIdentifier                  /home/Software/EDA/Cadence/IC/IC_6.1.7.715/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/libManager.log
+TimeEditLocked                 Mon Dec 20 11:49:30 2021 MSK

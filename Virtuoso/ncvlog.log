@@ -1,0 +1,74 @@
+ncvlog: *W,DLNOHV: Unable to find an 'hdl.var' file to load in.
+TOOL:	ncvlog(64)	15.20-s022: Started on Dec 20, 2021 at 11:59:39 MSK
+ncvlog
+    -use5x
+    -work __nclib
+    -view module
+    -logfile ncvlog.log
+    -cdslib /tmp/ihdl_cdslibb3235_13235
+    -messages
+    -nostdout
+    -nocopyright
+    -ESCAPEDNAME
+    /home/student7/Degirmendgi_DM/Digital_ASIC/Output/Top_netlist_phys.v
+
+file: /home/student7/Degirmendgi_DM/Digital_ASIC/Output/Top_netlist_phys.v
+	module __nclib.add_signed_756:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed_898:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed_23:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed_24:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed_303:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed_25:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed_6:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed_26:module
+		errors: 0, warnings: 0
+	module __nclib.add_signed:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_107:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_175:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_241:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_308:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_403:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_527:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_608:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_687:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const_751:module
+		errors: 0, warnings: 0
+	module __nclib.mult_signed_const:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_752:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_755_1:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_755_2:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_762:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_753_1:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_753:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_752_1:module
+		errors: 0, warnings: 0
+	module __nclib.increment_unsigned_755:module
+		errors: 0, warnings: 0
+	module __nclib.Subsystem:module
+		errors: 0, warnings: 0
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 1
+TOOL:	ncvlog(64)	15.20-s022: Exiting on Dec 20, 2021 at 11:59:40 MSK  (total: 00:00:01)

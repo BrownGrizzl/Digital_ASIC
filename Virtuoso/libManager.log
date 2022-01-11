@@ -1,0 +1,146 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 09/11/2017 15:13 (sjfnl050) $
+\o Sub version:		sub-version  s057 
+\o Arguments:		-mpssession virtuoso7595 -mpshost Cadence_SERVER 
+\o Working Directory:	Cadence_SERVER:/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o Log file is "/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellSearchInsensitiveButton->value = t
+\a cdsLibManager->cellSearchSubstringButton->value = t
+\a nrResizeWindow(cdsLibManager list(0 25 1916 998))
+\o changeWorkingDir("/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "test"
+\a cdsLibManager->libLineEdit->value = "test"
+\a cdsLibManager->cellListBox->value = "Subsystem"
+\a cdsLibManager->cellLineEdit->value = "Subsystem"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\a cdsLibManager->libListBox->value = "test"
+\a cdsLibManager->libLineEdit->value = "test"
+\a cdsLibManager->cellListBox->value = "Subsystem"
+\a cdsLibManager->cellLineEdit->value = "Subsystem"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Subsystem"
+\a cdsLibManager->cellLineEdit->value = "Subsystem"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\a cdsLibManager->libListBox->value = "test"
+\a cdsLibManager->libLineEdit->value = "test"
+\a cdsLibManager->cellListBox->value = "Subsystem"
+\a cdsLibManager->cellLineEdit->value = "Subsystem"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\a cdsLibManager->libListBox->value = "test"
+\a cdsLibManager->libLineEdit->value = "test"
+\a cdsLibManager->cellListBox->value = "Subsystem"
+\a cdsLibManager->cellLineEdit->value = "Subsystem"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ieee' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'ambit' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'std' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'synopsys' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\w Warning: COMBINE attribute library not defined
+\w  library: 'connectLib' file: '/home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/xt018_combine.lib', line: 21
+\a cdsLibManager->libListBox->value = "test"
+\a cdsLibManager->libLineEdit->value = "test"
+\a cdsLibManager->cellListBox->value = "Subsystem"
+\a cdsLibManager->cellLineEdit->value = "Subsystem"
+\a nrSetCurrentWindow(cdsLibManager)
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetCurrentWindow(cdsLibManager)

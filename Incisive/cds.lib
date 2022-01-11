@@ -1,0 +1,21 @@
+-- define mylib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/mylib
+-- define 1 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/1
+-- define 2 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/2
+-- define 3 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/3
+-- define 4 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/4
+-- define 5 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/5
+-- define 6 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/6
+-- define 1 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/1
+-- define 2 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/2
+-- define 3 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/3
+-- define 4 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/4
+-- define 5 /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/5
+define XFAB /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/XFAB
+-- define Synth /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/Synth
+define verilog /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/verilog
+define RTL /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/RTL
+define encounter /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/encounter
+define TB /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/TB
+define TB_ENCOUNTER /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/TB_ENCOUNTER
+define TB_MAX /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/TB_MAX
+define TB_MIN /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/TB_MIN

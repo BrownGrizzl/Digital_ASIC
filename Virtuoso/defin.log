@@ -1,0 +1,17 @@
+
+********************************************************************************
+Product   : Virtuoso(R) DEF In 
+Program   : @(#)$CDS: defin version 6.1.7-64b 10/06/2017 20:14 (sjfhw317) $
+SubVersion: sub-version  IC6.1.7-64b.500.15 
+Started at: 20-Dec-2021  12:00:36
+User Name : student7
+Host Name : Cadence_SERVER
+Directory : /home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso
+DB Version: 	20171006 (SJ)
+CADENCE Design Systems, Inc.
+********************************************************************************
+Running: defin -lib test -libPath /home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso -def "/home/student7/Degirmendgi_DM/Digital_ASIC/Output/Top.def" -techRefs "D_CELLS_HD"
+
+Elapsed Time: 1.4s
+
+defin translation completed (errors: 0, warnings: 0).

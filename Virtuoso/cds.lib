@@ -1,0 +1,26 @@
+# ------------------------------------------------------------------------------
+# XKIT library definition files
+#   xt018.lib:
+#     - contains X-FAB XT018 Cadence library definitions 
+# 	 and must not be changed, exept with tkit -m|--modules
+#     - tkit -m|--modules overwrites this file, any changes will be lost.
+#   cds.lib:
+#     - includes xt018.lib
+#     - can contain customer specific library definitions
+#     xkit -m|--modules does NOT change an existing cds.lib.
+# ------------------------------------------------------------------------------
+
+
+# ------------------------------------------------------------------------------
+# XT018 Cadence library definitions
+
+# X-FAB library definitions
+INCLUDE ./xt018.lib
+
+# Library Manager Combine/Display Definitions
+INCLUDE ./xt018_combine.lib
+
+# ------------------------------------------------------------------------------
+# Add user specific libraries below this line 
+DEFINE test /home/student7/Degirmendgi_DM/Digital_ASIC/Virtuoso/test
+DEFINE avTech /home/Software/EDA/Cadence/ASSURA/ASSURA_04.15.111/tools.lnx86/assura/etc/avtech/avTech

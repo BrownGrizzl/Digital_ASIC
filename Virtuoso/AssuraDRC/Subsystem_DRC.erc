@@ -1,0 +1,48 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'Subsystem layout test':
+  info: Assign pin label "In1<0>" at (-219.725, -181.730) to layer `met3trm'.
+  info: Assign pin label "In1<1>" at (-219.725, -166.730) to layer `met3trm'.
+  info: Assign pin label "In1<2>" at (-219.725, -151.730) to layer `met3trm'.
+  info: Assign pin label "In1<3>" at (-219.725, -136.730) to layer `met3trm'.
+  info: Assign pin label "In1<4>" at (-219.725, -121.730) to layer `met3trm'.
+  info: Assign pin label "In1<5>" at (-219.725, -106.730) to layer `met3trm'.
+  info: Assign pin label "In1<6>" at (-219.725, -91.730) to layer `met3trm'.
+  info: Assign pin label "In1<7>" at (-219.725, -76.730) to layer `met3trm'.
+  info: Assign pin label "In1<8>" at (-219.725, -61.730) to layer `met3trm'.
+  info: Assign pin label "In1<9>" at (-219.725, -46.730) to layer `met3trm'.
+  info: Assign pin label "In1<10>" at (-219.725, -31.730) to layer `met3trm'.
+  info: Assign pin label "In1<11>" at (-219.725, -16.730) to layer `met3trm'.
+  info: Assign pin label "In1<12>" at (-219.725, -1.730) to layer `met3trm'.
+  info: Assign pin label "In1<13>" at (-219.725, 13.270) to layer `met3trm'.
+  info: Assign pin label "In1<14>" at (-219.725, 28.270) to layer `met3trm'.
+  info: Assign pin label "In1<15>" at (-219.725, 43.270) to layer `met3trm'.
+  info: Assign pin label "In1<16>" at (-219.725, 58.270) to layer `met3trm'.
+  info: Assign pin label "Out1<0>" at (219.730, -181.720) to layer `met3trm'.
+  info: Assign pin label "Out1<1>" at (219.730, -166.720) to layer `met3trm'.
+  info: Assign pin label "Out1<2>" at (219.730, -151.720) to layer `met3trm'.
+  info: Assign pin label "Out1<3>" at (219.730, -136.720) to layer `met3trm'.
+  info: Assign pin label "Out1<4>" at (219.730, -121.720) to layer `met3trm'.
+  info: Assign pin label "Out1<5>" at (219.730, -106.720) to layer `met3trm'.
+  info: Assign pin label "Out1<6>" at (219.730, -91.720) to layer `met3trm'.
+  info: Assign pin label "Out1<7>" at (219.730, -76.720) to layer `met3trm'.
+  info: Assign pin label "Out1<8>" at (219.730, -61.720) to layer `met3trm'.
+  info: Assign pin label "Out1<9>" at (219.730, -46.720) to layer `met3trm'.
+  info: Assign pin label "Out1<10>" at (219.730, -31.720) to layer `met3trm'.
+  info: Assign pin label "Out1<11>" at (219.730, -16.720) to layer `met3trm'.
+  info: Assign pin label "Out1<12>" at (219.730, -1.720) to layer `met3trm'.
+  info: Assign pin label "Out1<13>" at (219.730, 13.280) to layer `met3trm'.
+  info: Assign pin label "Out1<14>" at (219.730, 28.280) to layer `met3trm'.
+  info: Assign pin label "Out1<15>" at (219.730, 43.280) to layer `met3trm'.
+  info: Assign pin label "Out1<16>" at (219.730, 58.280) to layer `met3trm'.
+  info: Assign pin label "reset" at (9.910, -216.355) to layer `met2trm'.
+  info: Assign pin label "clk" at (9.910, 216.355) to layer `met2trm'.
+  info: Assign pin label "clk_enable" at (69.910, 216.355) to layer `met2trm'.
+  info: Assign net label "gnd!" at (-214.060, -214.310) to layer `met1trm'.
+  info: Assign net label "vdd!" at (-214.785, -211.020) to layer `met1trm'.
+  info: Assign pin label "gnd!" at (-214.090, -214.300) to layer `met1trm'.
+  info: Assign pin label "vdd!" at (-214.810, -211.010) to layer `met1trm'.
+
+***** End of Label Report *****
+

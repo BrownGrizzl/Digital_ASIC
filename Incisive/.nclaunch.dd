@@ -1,0 +1,44 @@
+# DO NOT EDIT -- automatically generated design data file -- DO NOT EDIT!!!
+list \
+workdir {/home/student7/Degirmendgi_DM/Digital_ASIC/Incisive} \
+cdslib {/home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib} \
+worklib {worklib} \
+mode {0} \
+filters {*.v *.vhd *.vhdl} \
+sesslist {} \
+ToolOption_NCVhdl {-logfile ncvhdl.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog { -work RTL -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/AMS { -work RTL -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/SV { -work RTL -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_irun {-gui {} +linedebug +access rwc -q} \
+ToolOption_NCElab { -work TB -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncelab.log -errormax 15 -access +wc -status} \
+ToolOption_NCSim { -gui -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncsim.log -errormax 15 -status} \
+ToolOption_NCSdfc {-logfile ncsdfc.log -compile -status} \
+ToolOption_HAL { -logfile hal.log -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib} \
+ToolOption_SimVision {} \
+ToolOption_Update { -force -errormax 15 -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib} \
+ToolOption_SimCompare {} \
+ToolOption_NCBrowse {} \
+ToolOption_HALDefEdit {} \
+ToolOption_NCShell {-view shell -logfile ncshell.log -errormax 15 -suffix .v} \
+ToolOption_NCProtect {-logfile ncprotect.log} \
+ToolOption_NCDC { -logfile ncdc.log -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -messages -status} \
+ToolOption_DBUtil {} \
+ToolOption_NCVhdl {-logfile ncvhdl.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog { -work RTL -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/AMS { -work RTL -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/SV { -work RTL -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_irun {-gui {} +linedebug +access rwc -q} \
+ToolOption_NCElab { -work TB -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncelab.log -errormax 15 -access +wc -status} \
+ToolOption_NCSim { -gui -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncsim.log -errormax 15 -status} \
+ToolOption_NCSdfc {-logfile ncsdfc.log -compile -status} \
+ToolOption_HAL { -logfile hal.log -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib} \
+ToolOption_SimVision {} \
+ToolOption_Update { -force -errormax 15 -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib} \
+ToolOption_SimCompare {} \
+ToolOption_NCBrowse {} \
+ToolOption_HALDefEdit {} \
+ToolOption_NCShell {-view shell -logfile ncshell.log -errormax 15 -suffix .v} \
+ToolOption_NCProtect {-logfile ncprotect.log} \
+ToolOption_NCDC { -logfile ncdc.log -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -messages -status} \
+ToolOption_DBUtil {} \

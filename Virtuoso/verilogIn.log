@@ -1,0 +1,192 @@
+@(#)$CDS: ihdl version 6.1.7-64b 10/06/2017 20:02 (sjfhw303) $  Mon Dec 20 11:59:39 2021
+
+INFO (VERILOGIN-589): Using ncvlog binary for compilation.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY1HDX1. Therefore using library
+D_CELLS_HD, cell DLY1HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUHDX2. Therefore using library
+D_CELLS_HD, cell BUHDX2, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUHDX3. Therefore using library
+D_CELLS_HD, cell BUHDX3, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY8HDX1. Therefore using library
+D_CELLS_HD, cell DLY8HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module CAGHDX1. Therefore using library
+D_CELLS_HD, cell CAGHDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module INHDX1. Therefore using library
+D_CELLS_HD, cell INHDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FAHDX0. Therefore using library
+D_CELLS_HD, cell FAHDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module HAHDX0. Therefore using library
+D_CELLS_HD, cell HAHDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module EO3HDX1. Therefore using library
+D_CELLS_HD, cell EO3HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol add_signed_756.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_756.
+INFO (VERILOGIN-357): Checked in symbol add_signed_898.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_898.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module EO3HDX0. Therefore using library
+D_CELLS_HD, cell EO3HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol add_signed_23.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_23.
+INFO (VERILOGIN-357): Checked in symbol add_signed_24.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_24.
+INFO (VERILOGIN-357): Checked in symbol add_signed_303.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_303.
+INFO (VERILOGIN-357): Checked in symbol add_signed_25.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_25.
+INFO (VERILOGIN-357): Checked in symbol add_signed_6.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_6.
+INFO (VERILOGIN-357): Checked in symbol add_signed_26.
+INFO (VERILOGIN-372): Checked-in schematic add_signed_26.
+INFO (VERILOGIN-357): Checked in symbol add_signed.
+INFO (VERILOGIN-372): Checked-in schematic add_signed.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY4HDX1. Therefore using library
+D_CELLS_HD, cell DLY4HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module EN3HDX0. Therefore using library
+D_CELLS_HD, cell EN3HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module EO2HDX1. Therefore using library
+D_CELLS_HD, cell EO2HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_107.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_107.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module AO21HDX1. Therefore using library
+D_CELLS_HD, cell AO21HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NO22HDX0. Therefore using library
+D_CELLS_HD, cell NO22HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OA21HDX0. Therefore using library
+D_CELLS_HD, cell OA21HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module EN2HDX0. Therefore using library
+D_CELLS_HD, cell EN2HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OA21HDX1. Therefore using library
+D_CELLS_HD, cell OA21HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module AN21HDX1. Therefore using library
+D_CELLS_HD, cell AN21HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NA2I1HDX1. Therefore using library
+D_CELLS_HD, cell NA2I1HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OR2HDX1. Therefore using library
+D_CELLS_HD, cell OR2HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NO2HDX1. Therefore using library
+D_CELLS_HD, cell NO2HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NA2HDX1. Therefore using library
+D_CELLS_HD, cell NA2HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module AND2HDX1. Therefore using library
+D_CELLS_HD, cell AND2HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_175.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_175.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module ON21HDX1. Therefore using library
+D_CELLS_HD, cell ON21HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_241.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_241.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NO2I1HDX1. Therefore using library
+D_CELLS_HD, cell NO2I1HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_308.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_308.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module AN22HDX1. Therefore using library
+D_CELLS_HD, cell AN22HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module AO211HDX1. Therefore using library
+D_CELLS_HD, cell AO211HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_403.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_403.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OA211HDX0. Therefore using library
+D_CELLS_HD, cell OA211HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_527.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_527.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_608.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_608.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_687.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_687.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const_751.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const_751.
+INFO (VERILOGIN-357): Checked in symbol mult_signed_const.
+INFO (VERILOGIN-372): Checked-in schematic mult_signed_const.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY2HDX1. Therefore using library
+D_CELLS_HD, cell DLY2HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module EO2HDX0. Therefore using library
+D_CELLS_HD, cell EO2HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_752.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_752.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_755_1.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_755_1.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_755_2.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_755_2.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_762.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_762.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_753_1.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_753_1.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_753.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_753.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_752_1.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_752_1.
+INFO (VERILOGIN-357): Checked in symbol increment_unsigned_755.
+INFO (VERILOGIN-372): Checked-in schematic increment_unsigned_755.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUHDX1. Therefore using library
+D_CELLS_HD, cell BUHDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUHDX12. Therefore using library
+D_CELLS_HD, cell BUHDX12, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUHDX8. Therefore using library
+D_CELLS_HD, cell BUHDX8, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUHDX0. Therefore using library
+D_CELLS_HD, cell BUHDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUHDX6. Therefore using library
+D_CELLS_HD, cell BUHDX6, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY1HDX0. Therefore using library
+D_CELLS_HD, cell DLY1HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY2HDX0. Therefore using library
+D_CELLS_HD, cell DLY2HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY4HDX0. Therefore using library
+D_CELLS_HD, cell DLY4HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DLY8HDX0. Therefore using library
+D_CELLS_HD, cell DLY8HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module INHDX12. Therefore using library
+D_CELLS_HD, cell INHDX12, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NA22HDX1. Therefore using library
+D_CELLS_HD, cell NA22HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OA31HDX1. Therefore using library
+D_CELLS_HD, cell OA31HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OR6HDX1. Therefore using library
+D_CELLS_HD, cell OR6HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NA6I5HDX1. Therefore using library
+D_CELLS_HD, cell NA6I5HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OR5HDX1. Therefore using library
+D_CELLS_HD, cell OR5HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NA5I4HDX1. Therefore using library
+D_CELLS_HD, cell NA5I4HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NO6HDX1. Therefore using library
+D_CELLS_HD, cell NO6HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module ON21HDX0. Therefore using library
+D_CELLS_HD, cell ON21HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NO3HDX1. Therefore using library
+D_CELLS_HD, cell NO3HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module OR4HDX1. Therefore using library
+D_CELLS_HD, cell OR4HDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module SDFRQHDX2. Therefore using library
+D_CELLS_HD, cell SDFRQHDX2, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module SDFRQHDX4. Therefore using library
+D_CELLS_HD, cell SDFRQHDX4, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module SDFRQHDX1. Therefore using library
+D_CELLS_HD, cell SDFRQHDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DFRQHDX1. Therefore using library
+D_CELLS_HD, cell DFRQHDX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DFRQHDX2. Therefore using library
+D_CELLS_HD, cell DFRQHDX2, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NO3I1HDX0. Therefore using library
+D_CELLS_HD, cell NO3I1HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NO2I1HDX0. Therefore using library
+D_CELLS_HD, cell NO2I1HDX0, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED25HD. Therefore using library
+D_CELLS_HD, cell FEED25HD, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED10HD. Therefore using library
+D_CELLS_HD, cell FEED10HD, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED1HD. Therefore using library
+D_CELLS_HD, cell FEED1HD, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED3HD. Therefore using library
+D_CELLS_HD, cell FEED3HD, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED15HD. Therefore using library
+D_CELLS_HD, cell FEED15HD, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED5HD. Therefore using library
+D_CELLS_HD, cell FEED5HD, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED2HD. Therefore using library
+D_CELLS_HD, cell FEED2HD, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module FEED7HD. Therefore using library
+D_CELLS_HD, cell FEED7HD, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol Subsystem.
+INFO (VERILOGIN-372): Checked-in schematic Subsystem.
+INFO (VERILOGIN-206): End of Logfile.

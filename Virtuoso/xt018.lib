@@ -1,0 +1,85 @@
+# ------------------------------------------------------------------------------
+# X-FAB XT018 Cadence library definitions
+# Please do not edit or modify this file!
+# xkit -m|--modules overwrites this file, any changes will be lost.
+# ------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# Date    : $Date: 2012-12-07 18:11:57 +0100 (Fri, 07 Dec 2012) $
+# Revison : $Revision: 591 $
+# Author  : $Author: wflohrer $
+# ------------------------------------------------------------------------------
+
+# T_VERSION = $Date: 2012-12-07 18:11:57 +0100 (Fri, 07 Dec 2012) $
+# T_TECH = "xt018"
+# T_KIT = $Date: 2012-12-07 18:11:57 +0100 (Fri, 07 Dec 2012) $
+# T_PROC = "1243"
+
+# Standard Cadence libraries
+INCLUDE ./.xkit/setup/x_all/cadence/xenv/templates/cds.lib
+
+# XKit libraries
+# -- cds.lib for XT018 in TheKit -- 
+
+# ==================================================
+
+#  primitive device libraries
+
+DEFINE PRIMLIB ./.xkit/setup/xt018/cadence/PDK/PRIMLIB_1243
+
+
+#  technology libraries
+
+DEFINE TECH_XT018 ./.xkit/setup/xt018/cadence/PDK/TECH_XT018_1243
+DEFINE TECH_XT018_HD ./.xkit/setup/xt018/cadence/PDK/TECH_XT018_HD_1243
+
+
+#  analogue design
+
+
+
+#  logic library
+
+DEFINE GATES ./.xkit/setup/xt018/diglibs/GATES/cadence_IC61/GATES
+DEFINE GATES_5V ./.xkit/setup/xt018/diglibs/GATES_5V/cadence_IC61/GATES_5V
+
+
+#  digital core libraries
+
+DEFINE D_CELLS_5V ./.xkit/setup/xt018/diglibs/D_CELLS_5V/cadence_IC61/D_CELLS_5V
+
+
+#  digital junction isolated core libraries
+
+#DEFINE D_CELLS_JI               $T_DIR/cadence/xt018/D_CELLS_JI
+
+
+
+#  digital io libraries
+
+#DEFINE IO_CELLS_5V              $T_DIR/cadence/xt018/IO_CELLS_5V
+
+
+
+#  digital reference library - udp, check, ...
+
+DEFINE VLG_PRIMITIVES ./.xkit/setup/x_all/diglibs/VLG_PRIMITIVES/cadence_IC61/VLG_PRIMITIVES
+
+
+#  licence specific definitions
+
+# X-FAB IP libraries
+
+DEFINE D_CELLS_HD		./.xkit/setup/xt018/diglibs/D_CELLS_HD/cadence_IC61/D_CELLS_HD
+DEFINE D_CELLS_HDMV		./.xkit/setup/xt018/diglibs/D_CELLS_HDMV/cadence_IC61/D_CELLS_HDMV
+DEFINE D_CELLS_M5V		./.xkit/setup/xt018/diglibs/D_CELLS_M5V/cadence_IC61/D_CELLS_M5V
+DEFINE D_CELLS_MV		./.xkit/setup/xt018/diglibs/D_CELLS_MV/cadence_IC61/D_CELLS_MV
+DEFINE GATES_HD		./.xkit/setup/xt018/diglibs/GATES_HD/cadence_IC61/GATES_HD
+DEFINE GATES_HD5V		./.xkit/setup/xt018/diglibs/GATES_HD5V/cadence_IC61/GATES_HD5V
+DEFINE HV_CELLS		./.xkit/setup/xt018/esdlibs/HV_CELLS/cadence_IC61/HV_CELLS
+DEFINE IO_CELLS_5V		./.xkit/setup/xt018/diglibs/IO_CELLS_5V/cadence_IC61/IO_CELLS_5V
+DEFINE IO_CELLS_C5V		./.xkit/setup/xt018/diglibs/IO_CELLS_C5V/cadence_IC61/IO_CELLS_C5V
+DEFINE IO_CELLS_F5V		./.xkit/setup/xt018/diglibs/IO_CELLS_F5V/cadence_IC61/IO_CELLS_F5V
+DEFINE IO_CELLS_FC5V		./.xkit/setup/xt018/diglibs/IO_CELLS_FC5V/cadence_IC61/IO_CELLS_FC5V
+# License Specific Cadence libraries
+
+DEFINE xfab_connectLib		.xkit/setup/x_all/diglibs/xfab_connectLib/cadence_IC61/xfab_connectLib

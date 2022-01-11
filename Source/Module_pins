@@ -1,0 +1,55 @@
+Version: 1
+
+Offset: 34.99
+Pin: In1[0] W MET4
+
+Spacing: 15
+Pin: In1[1] W MET4
+Pin: In1[2] W MET4
+Pin: In1[3] W MET4
+Pin: In1[4] W MET4
+Pin: In1[5] W MET4
+Pin: In1[6] W MET4
+Pin: In1[7] W MET4
+Pin: In1[8] W MET4
+Pin: In1[9] W MET4
+Pin: In1[10] W MET4
+Pin: In1[11] W MET4
+Pin: In1[12] W MET4
+Pin: In1[13] W MET4
+Pin: In1[14] W MET4
+Pin: In1[15] W MET4
+Pin: In1[16] W MET4
+
+Offset: 230
+Pin: clk N MET4
+
+Spacing: 60
+
+
+Pin: clk_enable N MET4
+Offset: 230
+Pin: reset S MET4
+
+Offset: 35
+Pin: Out1[0] E MET4
+
+Spacing: 15
+Pin: Out1[1] E MET4
+Pin: Out1[2] E MET4
+Pin: Out1[3] E MET4
+Pin: Out1[4] E MET4
+Pin: Out1[5] E MET4
+Pin: Out1[6] E MET4
+Pin: Out1[7] E MET4
+Pin: Out1[8] E MET4
+Pin: Out1[9] E MET4
+Pin: Out1[10] E MET4
+Pin: Out1[11] E MET4
+Pin: Out1[12] E MET4
+Pin: Out1[13] E MET4
+Pin: Out1[14] E MET4
+Pin: Out1[15] E MET4
+Pin: Out1[16] E MET4
+
+

@@ -1,0 +1,96 @@
+*** Message Type: info ***
+When: Mon Dec 13 11:36:47 PM MSK 2021
+SimVision started.
+Version: TOOL:  simvision       15.20-s022
+User: student7
+Host: Cadence_SERVER
+Platform: Linux/x86_64/2.6.32-358.el6.x86_64
+Started: Mon Dec 13 11:36:47 PM MSK 2021
+Command: /home/Software/EDA/Cadence/INCISIVE/INCISIVE_15.20.022/tools.lnx86/simvision/bin/simvision.exe -connect dc:Cadence_SERVER:50945
+Work Directory: /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:36:47 PM MSK 2021
+Create browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:36:48 PM MSK 2021
+Create console window: "Console"
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:36:49 PM MSK 2021
+Connect to Simulator
+      Design: 5.Subsystem_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:      ncsim   15.20-s022
+        User: student7
+        Host: Cadence_SERVER
+Time Started: Mon Dec 13 11:36:47 PM MSK 2021
+  Process ID: 2269
+   Directory: /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive
+     Command: ncsim -gui -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncsim.log -errormax 15 -status 5.Subsystem_tb:module
+
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:36:49 PM MSK 2021
+Create utility window: "Properties"
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:37:23 PM MSK 2021
+Create waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:38:19 PM MSK 2021
+Delete waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:40:07 PM MSK 2021
+Delete browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:40:11 PM MSK 2021
+Exit NC-Sim: user
+      Design: 5.Subsystem_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:      ncsim   15.20-s022
+        User: student7
+        Host: Cadence_SERVER
+Time Started: Mon Dec 13 11:36:47 PM MSK 2021
+  Process ID: 2269
+   Directory: /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive
+     Command: ncsim -gui -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncsim.log -errormax 15 -status 5.Subsystem_tb:module
+
+ 
+*** Message Type: error ***
+When: Mon Dec 13 11:40:11 PM MSK 2021
+NC-Sim Crashed:
+      Design: 5.Subsystem_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:      ncsim   15.20-s022
+        User: student7
+        Host: Cadence_SERVER
+Time Started: Mon Dec 13 11:36:47 PM MSK 2021
+  Process ID: 2269
+   Directory: /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive
+     Command: ncsim -gui -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncsim.log -errormax 15 -status 5.Subsystem_tb:module
+      Design: 5.Subsystem_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL: ncsim   15.20-s022
+        User: student7
+        Host: Cadence_SERVER
+Time Started: Mon Dec 13 11:36:47 PM MSK 2021
+  Process ID: 2269
+   Directory: /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive
+     Command: ncsim -gui -cdslib /home/student7/Degirmendgi_DM/Digital_ASIC/Incisive/cds.lib -logfile ncsim.log -errormax 15 -status 5.Subsystem_tb:module
+
+Outstanding STRAP Requests:
+        strap::report enable out
+ 
+*** Message Type: info ***
+When: Mon Dec 13 11:40:13 PM MSK 2021
+SimVision Exit.
+ 

@@ -1,0 +1,39 @@
+ ;# 21021
+    processAntenna( 
+        gate( sum (gate_T?13723 poly) )
+        antenna( poly met1 met2 met3 via3CON )
+        diffusion( sd )
+        met3R = ( met3.perimeter * 0.565 ) / gate_T?13723.area 
+        via3R = via3CON.area / gate_T?13723.area 
+        ant_met3 = drcAntenna( met3 ( gate_T?13723 met3 ) met3R  400 < keep "R2M3P1 : Maximum ratio of MET3 area to connected GATE area = 400" ) 
+    )
+
+ Seq#       Net           Location          Peri of   Area of       met3R   Cell
+                    gate_T?13723                  met3 gate_T?13723
+
+    1   avC2810  (   101.250,   159.830)    192.740     0.187200    581.7206  avGrid67_02
+    2   avC2065  (    65.570,   276.370)    136.740     0.189000    408.7730  avGrid67_02
+    3   avC1483  (   100.690,   157.690)    205.320     0.187200    619.6891  avGrid67_02
+    4    avC795  (    85.930,    39.785)    177.320     0.219600    456.2195  avGrid67_02
+
+    4 errors detected
+--------------------------------------------------------------------------------
+ ;# 21036
+    processAntenna( 
+        gate( sum (gate_T?13729 poly) )
+        antenna( poly met1 met2 met3 met4 vtpCON )
+        diffusion( sd )
+        met4R = ( met4.perimeter * 0.565 ) / gate_T?13729.area 
+        vtpR = vtpCON.area / gate_T?13729.area 
+        ant_met4 = drcAntenna( met4 ( gate_T?13729 met4 ) met4R  400 < keep "R2M4P1 : Maximum ratio of MET4 area to connected GATE area = 400" ) 
+    )
+
+ Seq#       Net           Location          Peri of   Area of       met4R   Cell
+                    gate_T?13729                  met4 gate_T?13729
+
+    1   avC2403  (   196.810,   238.330)    206.280     0.187200    622.5865  avGrid67_01
+    2   avC2095  (   200.730,   177.750)    230.920     0.187200    696.9541  avGrid67_01
+    3   avC2021  (   162.810,   200.755)    346.280     0.221400    883.6865  avGrid67_01
+
+    3 errors detected
+--------------------------------------------------------------------------------
